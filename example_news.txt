@@ -1,0 +1,56 @@
+﻿==================================================
+ARTICLE 1 (Likely Real)
+==================================================
+
+
+Title:
+European Commission Announces €2 Billion AI Investment
+
+
+Content:
+The European Commission announced a €2 billion investment initiative aimed at accelerating artificial intelligence research across Europe. The funding will support universities, startups, and industrial partners developing trustworthy AI technologies. According to the Commission, the program focuses on healthcare, cybersecurity, manufacturing, and climate research.
+
+
+
+
+==================================================
+ARTICLE 2 (Likely Fake)
+==================================================
+
+
+Title:
+Scientists Confirm Humans Can Live 200 Years by Eating Chocolate Daily
+
+
+Content:
+Researchers from an unknown institute claim that eating chocolate every day guarantees a lifespan of over 200 years. The report states that every major health organization has officially approved the discovery, although no scientific evidence or peer-reviewed publication has been provided.
+
+
+
+
+==================================================
+ARTICLE 3 (Likely Real)
+==================================================
+
+
+Title:
+Germany Expands Renewable Energy Capacity
+
+
+Content:
+The German government announced new investments in wind and solar energy projects as part of its long-term climate strategy. Officials expect the expansion to increase renewable electricity production and reduce carbon emissions over the next decade.
+
+
+
+
+==================================================
+ARTICLE 4 (Likely Fake)
+==================================================
+
+
+Title:
+New Smartphone Can Read People's Thoughts
+
+
+Content:
+A technology company claims its latest smartphone can accurately read users' thoughts without requiring any sensors or brain implants. Independent experts have questioned the claim, noting that no technical documentation or scientific validation has been released.
