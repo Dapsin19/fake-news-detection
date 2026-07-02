@@ -42,7 +42,7 @@ This project showcases practical Machine Learning engineering skills including A
 ## 📂 Project Structure
 
 ```text
-fake-news-detection-ai/
+fake-news-detection/
 │
 ├── app.py
 ├── model.py
